@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GLUITest</string>
+    <string name="hide_me">Hide Me!</string>
+    <string name="visibility_1_vis">Vis</string>
+    <string name="visibility_1_invis">Invis</string>
+    <string name="visibility_1_gone">Gone</string>
+</resources>
